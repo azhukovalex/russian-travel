@@ -1,0 +1,12 @@
+.page__header {
+    margin: 28px auto;
+    width: calc(100% - 96px);
+  }
+  
+  
+  
+  @media (max-width: 320px) {
+    .page__header {
+      margin: 16px auto;
+    }
+  }

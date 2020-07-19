@@ -1,0 +1,10 @@
+.main__lead {
+    margin: 56px auto 0;
+  }
+
+  
+  @media (max-width: 1024px) {
+    .main__lead {
+      margin: 49px auto 0px;
+    }
+  }

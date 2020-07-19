@@ -1,0 +1,29 @@
+@import url(./__lang-link/header__land-link.css);
+@import url(./__logo/header__logo.css);
+
+.header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 1184px;
+}
+
+@media (max-width: 1024px) {
+  .header {
+    max-width: 928px;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    max-width: 720px;
+    width: calc(100% - 48px);
+  }
+}
+
+@media (max-width: 320px) {
+  .header {
+    width: calc(100% - 32px);
+    max-width: 288px;
+  }
+}
