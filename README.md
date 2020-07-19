@@ -8,3 +8,4 @@
 4. Флексбокс
 5. Отображение на экранах: 20px, 768px, 1024px, 1280px
 6. Figma
+7. [Ссылка на проект в Github](https://github.com/azhukovalex/russian-travel/index.html)

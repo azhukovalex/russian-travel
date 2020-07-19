@@ -3,16 +3,7 @@
     line-height: 60px;
     margin: auto;
   }
-  
-  @media (max-width: 1024px) {
-    .intro__title {
-    }
-  }
-  
-  @media (max-width: 768px) {
-    .intro__title {
-    }
-  }
+   
   
   @media (max-width: 500px) {
     .intro__title {

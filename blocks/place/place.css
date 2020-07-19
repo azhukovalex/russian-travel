@@ -1,14 +1,10 @@
 @import url(./__image/place__image.css);
-@import url(./__text/_type/place__text.css);
+@import url(./__text/place__text.css);
 @import url(./__texts/place__texts.css);
 @import url(./__title/place__title.css);
 @import url(./__url-link/place__url-link.css);
 @import url(./__url-ttl/place__url-ttl.css);
 @import url(./__url/place__url.css);
-
-
-
-
 
 @media (max-width: 1024px) {
   .place {
