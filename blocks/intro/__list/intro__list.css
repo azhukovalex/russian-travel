@@ -1,10 +1,8 @@
-@import url(./_span/intro__list_span.css);
-
-
 .intro__list {
-    padding: 0;
-    list-style-type: none;
-    font-style: normal;
-    font-size: 12px;
-    line-height: 18px;
-  }
+  padding: 0;
+  list-style-type: none;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+}
