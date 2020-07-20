@@ -1,3 +1,5 @@
+@import url(./_active/header__lang-link_active.css);
+
 .header__lang-link {
   font-style: normal;
   font-weight: normal;
@@ -5,8 +7,7 @@
   line-height: 1em;
   text-align: right;
   -webkit-text-decoration-line: underline;
-  text-decoration-line: underline;
-  color: #ffffff;
+    color: #ffffff;
   -ms-flex-item-align: end;
   align-self: flex-end;
   width: 31px;
@@ -24,12 +25,14 @@
 .header__lang-link:last-of-type {
   margin-left: 1.5%;
   -webkit-text-decoration-line: none;
-  text-decoration-line: none;
+  text-decoration: none;
+
 }
 
 @media (max-width: 500px) {
   .header__lang-link:last-of-type {
     margin-left: 6%;
+    text-decoration: none;
   }
 }
 

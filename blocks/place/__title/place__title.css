@@ -4,6 +4,8 @@
     margin: 0;
     max-width: 420px;
     font-weight: 900;
+    display: flex;
+    align-items: flex-end;
   }
   
   @media (max-width: 800px) {
@@ -26,6 +28,6 @@
   
   @media (max-width: 320px) {
     .place__title {
-      margin: 43px 0 0px;
+      margin: 43px 0 29px;
     }
   }

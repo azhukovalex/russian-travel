@@ -1,3 +1,6 @@
+@import url(./_span/intro__list_span.css);
+
+
 .intro__list {
     padding: 0;
     list-style-type: none;
