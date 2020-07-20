@@ -13,6 +13,7 @@
       font-size: 44px;
       line-height: 40px;
       max-width: 228px;
+      margin: 47px 0 30px;
     }
   }
   
@@ -21,7 +22,6 @@
       font-size: 32px;
       max-width: 281px;
       text-align: left;
-      margin: 47px 0 30px;
       padding: 0 15px;
     }
   }
